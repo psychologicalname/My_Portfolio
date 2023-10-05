@@ -20,9 +20,9 @@ const Navbar = () => {
           }}
         >
           <img
-            src={logo}
-            alt='logo'
-            className='w-12 h-12 object-contain'
+            src={profile}
+            alt='profile'
+            className='w-12 h-12 rounded-full object-cover'
           />
           <p className='text-white text-[18px] font-bold cursor-pointer'>Pooja Agrawal<span className='sm:block hidden font-normal text-[14px]'>Frontend Developer</span></p>
         </Link>

@@ -12,7 +12,7 @@ import {
     nodejs,
     git,
     figma,
-    starbucks,
+    hireacamp,
     freelance,
     threejs,
     illustrator,
@@ -21,7 +21,7 @@ import {
     carShowcase,
     dalle,
     metaversus,
-    hireacamp,
+    hireacampCover,
     framer,
 } from "../assets";
 
@@ -118,7 +118,7 @@ const experiences = [
     {
         title: "React.js Developer",
         company_name: "Hire A Camp",
-        icon: starbucks,
+        icon: hireacamp,
         iconBg: "#383E56",
         date: "Feb 2023 - Jul 2023",
         points: [
@@ -185,7 +185,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: hireacamp,
+        image: hireacampCover,
         source_code_link: "https://hireacamp.com",
     },
     {

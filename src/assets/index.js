@@ -22,14 +22,14 @@ import photoshop from "./tech/photoshop.png";
 import illustrator from "./tech/illustrator.png";
 import framer from "./tech/framer.png";
 
-import starbucks from "./company/starbucks.png";
+import hireacamp from "./company/hireacamp.jpg";
 import freelance from "./company/freelance.png";
 
 import tshirtDesign from "./tshirtDesign.png";
 import carShowcase from "./carShowcase.png";
 import dalle from "./dalle.png";
 import metaversus from "./metaversus.png";
-import hireacamp from "./hireacamp.png";
+import hireacampCover from "./hireacamp.png";
 
 export {
   logo,
@@ -54,11 +54,11 @@ export {
   tailwind,
   threejs,
   framer,
-  starbucks,
+  hireacamp,
   freelance,
   tshirtDesign,
   carShowcase,
   dalle,
   metaversus,
-  hireacamp,
+  hireacampCover,
 };

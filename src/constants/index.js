@@ -120,7 +120,7 @@ const experiences = [
         company_name: "Hire A Camp",
         icon: hireacamp,
         iconBg: "#383E56",
-        date: "Feb 2023 - Jul 2023",
+        date: "Aug 2023 - Feb 2024",
         points: [
             "Designed and developed the complete front-end of the website, contributing to enhanced user engagement and improved visual aesthetics.",
             "Collaborated closely with cross-functional teams to ensure seamless integration of design and functionality.",
@@ -133,7 +133,7 @@ const experiences = [
         company_name: "Freelance",
         icon: freelance,
         iconBg: "#383E56",
-        date: "Jan 2022 - Jan 2023",
+        date: "Jan 2022 - Jul 2023",
         points: [
             "Worked independently to deliver high-quality front-end solutions to various clients, meeting project requirements and exceeding expectations.",
             "Leveraged React.js, CSS, and other modern technologies to create visually appealing and user-friendly websites.",
